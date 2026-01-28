@@ -77,4 +77,4 @@ Pour chaque pièce identifiée :
 
 ## Voir aussi
 
-- [Version de base](../chatbot-base) - Chatbot simple sans Vision
+- [Version de base](https://github.com/Para-FR/chatbot-ia-base) - Chatbot simple sans Vision
